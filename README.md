@@ -1,6 +1,6 @@
 # Promo Extractor — Kuku AI Generalist Assignment, Problem 1
 
-Repository: https://github.com/ShubNoob/promo-extractor · Author: Shubham Agarwal (230996)
+Repository: https://github.com/ShubNoob/kuku_230996 · Author: Shubham Agarwal (230996)
 
 Reads a microdrama's screenplays and returns ranked 20–60 second promo clips that open
 on a hook (first 3 seconds), cut on a cliffhanger, and make sense to someone who has never
